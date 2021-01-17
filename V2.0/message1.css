@@ -3,7 +3,7 @@
 	left: 50%;
 	top: 10%;
 	transform: translateX(-50%);
-	border: 1px solid #73575c;
+	border: 1px solid #EBEEF5;
 	min-width: 380px;
 	transition: top .3s ease-out;
 	opacity: .3s ease-out;
@@ -30,7 +30,7 @@
 	right: 15px;
 	transform: translateY(-50%);
 	cursor: pointer;
-	color: #856d72;
+	color: #C0C4CC;
 	font-size: 16px;
 	width: 26px;
 	height: 26px;
@@ -54,8 +54,8 @@
 }
 
 .mix-message-info {
-	border-color: #73575c;
-	background-color: #b598a1;
+	border-color: #EBEEF5;
+	background-color: #edf2fc;
 }
 
 .mix-message-info .mix-icon {
@@ -63,7 +63,7 @@
 }
 
 .mix-message-info .mix-message__content {
-	color: #66462a;
+	color: #909399;
 }
 
 .mix-icon-info:before {
@@ -78,7 +78,7 @@
 	width: 20px;
 	height: 20px;
 	line-height: 20px;
-	background: #66462a;
+	background: #909399;
 	left: -8px;
 	top: -3px;
 	border-radius: 50%;
